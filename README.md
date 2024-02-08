@@ -1,16 +1,19 @@
-# msig_assignment_test
+# Food Recipe App
+MSIG Assignment Test
 
-A new Flutter project.
+## Consists of:
+- Food List Page
+- Favorite Food List Page
+- Food Details Page
 
-## Getting Started
+## Tech Stack Used
+- BLoC
+- Drift
+- Dio
+- Clean Architecture
 
-This project is a starting point for a Flutter application.
+### Demo Video
+[Demo Video Link](https://drive.google.com/file/d/1gTCTJ6r-CfOF8h0qNMNCKtcfqI48CBYK/view?usp=share_link)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### APK
+[APK](https://drive.google.com/file/d/1-lnCv6zlNyIYy91yxCqrRGTakEHZLlZH/view?usp=share_link)
